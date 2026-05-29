@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: black;
+  color: white;
+}
+
+.num{
+  padding: 10px 70px;
+  margin: 20px;
+  width: fit-content;
+  font-size: 100px;
+  background-color: rgb(33, 7, 153);
+}
+
+button{
+  background-color: brown;
+  padding: 10px 20px;
+  margin: 20px;
+  font-size: 15px;
+}

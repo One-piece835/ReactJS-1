@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helv  etica neue';
+  color: #fff;
+}
+
+html,
+body{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+
+.card{
+  background-color: pink;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 15px;
+}
+
+.nav{
+  background-color: lightblue;
+  padding: 20px;
+  margin: 10px;
+}
